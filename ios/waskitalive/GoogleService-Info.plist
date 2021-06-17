@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>606450935650-2mt0c9u0rm4vcf6aciv5m8d68tsb7i60.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.606450935650-2mt0c9u0rm4vcf6aciv5m8d68tsb7i60</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>606450935650-4229dcvv8e429st35d9rrb4fj1cohedr.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCGB-x6b-9P7R1faval3kEoZ3_b9rUV5wg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>606450935650</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.waskitalive.ifca</string>
+	<key>PROJECT_ID</key>
+	<string>waskitalive</string>
+	<key>STORAGE_BUCKET</key>
+	<string>waskitalive.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:606450935650:ios:0178c39dac4ad473b2ae3b</string>
+	<key>DATABASE_URL</key>
+	<string>https://waskitalive.firebaseio.com</string>
+</dict>
+</plist>
